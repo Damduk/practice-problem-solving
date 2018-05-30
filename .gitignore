@@ -2,3 +2,6 @@
 
 *.out
 *.in
+*.swp
+
+playground.cpp
