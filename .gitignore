@@ -5,6 +5,7 @@ cmake-build-debug/
 
 *.out
 *.in
+*.in.txt
 *.swp
 
 playground.cpp
