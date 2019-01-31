@@ -8,5 +8,8 @@ cmake-build-debug/
 *.in.txt
 *.swp
 
+input.txt
+output.txt
+
 playground.cpp
 
