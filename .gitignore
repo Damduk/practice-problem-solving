@@ -1,3 +1,5 @@
+goorm.manifest
+
 .vscode/
 .idea/
 
@@ -7,6 +9,9 @@ cmake-build-debug/
 *.in
 *.in.txt
 *.swp
+
+input.txt
+output.txt
 
 playground.cpp
 
