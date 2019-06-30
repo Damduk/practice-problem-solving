@@ -10,7 +10,7 @@ cmake-build-debug/
 *.in.txt
 *.swp
 
-input.txt
+# input.txt
 output.txt
 
 playground.cpp
